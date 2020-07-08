@@ -7,5 +7,5 @@ EN - This app was desenvolved using React Native and Expo, on Sujeito Programado
 <br/>
 
 
-<img src="gif/cronometro.gif" width="250" height="450"/>
+<img src="gif/cronometro.gif" width="350" height="650"/>
 
